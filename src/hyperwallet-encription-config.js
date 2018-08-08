@@ -1,0 +1,5 @@
+const HYPERWALLET_KEYSET_PATH = "https://uat-api.paylution.com/jwkset";
+const CLIENT_PRIVATE_KEYSET_PATH = "/app/layer7/private-jwkset";
+
+exports.HYPERWALLET_KEYSET_PATH = HYPERWALLET_KEYSET_PATH;
+exports.CLIENT_PRIVATE_KEYSET_PATH = CLIENT_PRIVATE_KEYSET_PATH;
